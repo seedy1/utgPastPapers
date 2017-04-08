@@ -10,3 +10,6 @@
   This will create any new migrations and skip existing ones
   Version 3.5.0 has a migration for mysql adapter
  NOTE:check later
+
+todo: have an admim (me) and other normal users using devise. admin can add papers and user. normal users can only sign up and add papers
+
